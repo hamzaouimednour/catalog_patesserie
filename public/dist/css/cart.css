@@ -1,0 +1,64 @@
+.quantity{
+  padding-top: 20px;
+  margin-right: 60px;
+}
+.quantity input{
+  -webkit-appearance: none;
+  border: none;
+  text-align: center;
+  width: 20%;
+  font-size: 1em;
+  color: #43484D;
+  font-weight: 300;
+}
+.add {
+  width: 30px;
+  height: 30px;
+  background-color: #E1E8EE;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+}
+.minus-btn img{
+  margin-bottom: 3px;
+}
+.plus-btn img{
+  margin-top: 2px;
+}
+.titcart{
+    font-family:cursive;
+}
+.remove{
+    color: firebrick;
+    margin-top: 30%;
+    width: 30px;
+  height: 30px;
+  background-color: #E1E8EE;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+}
+.name{
+    margin-left:25%;
+}
+.prix{
+ margin-top:20%;
+    font-size: 150%;
+}
+.montant{
+    margin-top: 20%;
+    font-size: 150%;
+    
+}
+.tit{
+    font-weight: 500;
+    font-size:120%;
+}
+.tot{
+    font-size: 120%;
+    font-weight: 500;
+        
+}
+
+
+

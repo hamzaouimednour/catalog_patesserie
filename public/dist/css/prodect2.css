@@ -1,0 +1,46 @@
+.form{
+    margin-top: 2%;
+}
+.img{
+    border-radius: 5%;
+}
+.price{
+    font-size: 130%;
+}
+.tag{
+    font-weight: bold;
+    font-size: 80%;
+}
+.select{
+        border-bottom: 2px solid gray;
+    padding-bottom: 2%;
+}
+.check button{
+    width: 100%;
+}
+.check i{
+    margin-right: 1%;
+}
+.banner{
+height: 50px;
+}
+.banner-text{
+  position: absolute;
+  top: 6%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.add {
+  width: 40px;
+  height: 40px;
+  background-color: #E1E8EE;
+  border-radius: 40px;
+  border: none;
+  cursor: pointer;
+}
+.minus-btn img{
+  margin-bottom: 2px;
+}
+.plus-btn img{
+  margin-top: 2px;
+}
